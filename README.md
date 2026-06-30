@@ -158,7 +158,5 @@ Genes were considered significantly differentially expressed using
 ## Author
 
 Mayuri Dhakane
+M.Tech Computational Biology IIITD
 
-M.Sc. Bioinformatics
-
-Savitribai Phule Pune University
